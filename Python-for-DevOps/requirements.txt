@@ -1,1 +1,3 @@
 Will be mentioned
+
+source venv/bin/activate
