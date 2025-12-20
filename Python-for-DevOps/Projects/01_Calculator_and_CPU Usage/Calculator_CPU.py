@@ -1,11 +1,16 @@
 a = int(input("Enter first number"))
 b = int(input("Enter second number"))
-print("The sum of a and b is:", a + b)
-print("The product of a and b is:", a * b)
-print("The difference of a and b is:", a - b)
-print("The division of a and b is:", a / b)
+choice = input("Enter operation (+, -, *, /) : ")
+if choice == "+":
+    print(f"Addition is : {a+b}")
+if choice == "-":
+    print(f"Subtraction is : {a-b}")
+if choice == "*":
+    print(f"Multiplication is : {a*b}")
+if choice == "/":
+    print(f"Division is : {a/b}")
 
-------------------------------------------------
+#---------------------------------------------------
 
 import psutil
 def check_cpu_usage():
