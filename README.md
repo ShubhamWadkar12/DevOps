@@ -21,6 +21,8 @@ DevOps helps organizations automate processes, improve collaboration, and reduce
 - **Orchestration** – Kubernetes, OpenShift  
 - **Cloud Platforms** – AWS, Azure, GCP  
 - **Monitoring** – Prometheus, Grafana, ELK Stack
+- **Python Scripting** – Used for automation, CI/CD pipelines, cloud operations, and monitoring  
+- **Bash Scripting** – Used for Linux system automation, server management, and task scheduling
 
 ## Benefits of DevOps
 - Faster software delivery  
